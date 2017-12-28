@@ -1,5 +1,4 @@
 baseURL = "https://pavolloffay.github.io/website/"
-relativeURLs = false
 languageCode = "en-us"
 title = "Pavol Loffay"
 theme = "light-hugo"
