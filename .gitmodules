@@ -1,3 +1,6 @@
 [submodule "personal/themes/nixon"]
 	path = personal/themes/nixon
 	url = git@github.com:mdhender/nixon.git
+[submodule "themes/light-hugo"]
+	path = themes/light-hugo
+	url = git@github.com:tblyler/light-hugo.git
