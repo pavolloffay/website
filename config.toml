@@ -2,19 +2,17 @@ baseURL = "https://pavolloffay.github.io/website/"
 languageCode = "en-us"
 title = "Pavol Loffay"
 theme = "light-hugo"
-
 publishDir = "docs"
+staticDir = ["static1"]
 
 author = "Pavol Loffay"
-copyright = "© Copyright 2016 John Doe"
-
+copyright = "© Copyright 2016 Pavol Loffay"
 
 [Params]
-  description = "Describe your website"
-  email = "john@example.org"
-  github = "tblyler"
-  twitter = "tonyblyler"
-  linkedin = "johndoe"
-  facebook = "johndoe"
-  youtube = "johndoe"
-  logo = "/images/logo.png"
+  description = "Software Engineer"
+  email = "p.loffay@gmail.com"
+  github = "pavolloffay"
+  twitter = "ploffay"
+  linkedin = "pavolloffay"
+  youtube = "PavolLoffay"
+  logo = "static1/logo.png"
