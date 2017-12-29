@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Pavol Loffay"
 theme = "light-hugo"
 publishDir = "docs"
-staticDir = ["static1"]
+staticDir = ["static"]
 googleAnalytics = "UA-111628265-1"
 
 author = "Pavol Loffay"
@@ -16,4 +16,4 @@ copyright = "© Copyright 2018 Pavol Loffay"
   twitter = "ploffay"
   linkedin = "pavolloffay"
   youtube = "PavolLoffay"
-  logo = "logo.png"
+  logo = "images/logo.png"
