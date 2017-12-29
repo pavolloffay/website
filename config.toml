@@ -4,9 +4,10 @@ title = "Pavol Loffay"
 theme = "light-hugo"
 publishDir = "docs"
 staticDir = ["static1"]
+googleAnalytics = "UA-111628265-1"
 
 author = "Pavol Loffay"
-copyright = "© Copyright 2016 Pavol Loffay"
+copyright = "© Copyright 2018 Pavol Loffay"
 
 [Params]
   description = "Software Engineer"
